@@ -1,0 +1,23 @@
+
+h1  {
+  color: rgb(0, 105, 217);
+  margin-top: 40px;
+}
+
+.btn  {
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#quote {
+  display: none;
+}
+
+#gender, #age, #region  {
+  margin-right: 15px;
+}
+
+#age  {
+  max-width: 40px;
+}
